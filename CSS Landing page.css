@@ -19,7 +19,8 @@ body {
     overflow-y: hidden;
   }
   #presentation .container {
-    margin-top: 10vh;
+   width: 90%;
+  margin: 0 auto;
     background-color: #ffe6c0;
   }
 
