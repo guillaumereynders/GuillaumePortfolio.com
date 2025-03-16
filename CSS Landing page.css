@@ -7,7 +7,8 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-    margin: 0;
+    margin: 0 auto;
+    width:100%;
     color: #00cd98;
   }
   /* Presentation */
